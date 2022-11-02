@@ -1,0 +1,3 @@
+strain insulator
+sespension insulator
+disk insulator
